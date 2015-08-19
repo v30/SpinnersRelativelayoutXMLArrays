@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cooking Weight Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert_from">Convert From:</string>
+    <string name="default_teaspoon">1.0 teaspoon</string>
+    <string name="cup_text_view">0.208 cup</string>
+    <string name="tbs_textview">.3333 tbs</string>
+    <string name="oz_textview">.1666oz</string>
+    <string name="kg_textview">.0057 kg</string>
+    <string name="quart_textview">.0052 quart</string>
+    <string name="gl_textview">.0013 gallon</string>
+    <string name="lbs_textview">.0125 pound</string>
+    <string name="ml_textview">4.9289 ml</string>
+    <string name="liter_textview">.0049 liter</string>
+    <string name="mg_textview">5687.5000 mg</string>
+    <string name="pint_textview">.0104 pint</string>
+</resources>

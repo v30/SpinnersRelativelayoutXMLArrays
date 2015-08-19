@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="conversion_types">
+            <item>Teaspoon</item>
+            <item>Tablespoon</item>
+            <item>Cup</item>
+            <item>Ounce</item>
+            <item>Pint</item>
+            <item>Quart</item>
+            <item>Gallon</item>
+            <item>Pound</item>
+            <item>Milliliter</item>
+            <item>Liter</item>
+            <item>Milligram</item>
+            <item>Kilogram</item>
+        </string-array>
+    </resources>
